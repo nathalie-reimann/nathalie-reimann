@@ -4,7 +4,6 @@ Meu nome é Nathalie Landim Reimann, sou formada em administração e decidi mig
 
 ## Detalhes
 - 🔭 Em busca de uma oportunidade na área da tecnologia.
-- 🌱 Estou me aprofundando em JavaScript| HTML | CSS | REACT | NODE.
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
 
 ## Skills
