@@ -1,6 +1,6 @@
 ## Olá Pessoal! 
 
-Meu nome é Nathalie Landim Reimann, sou formada em administração decidi migrar de carreira para a área de tecnologia e estou em formação de Desenvolvedor de Software na Cubos Academy. A cada linguagem conhecida, me apaixono ainda mais pela tecnologia e como ela pode transformar a vida das pessoas.
+Meu nome é Nathalie Landim Reimann, sou formada em administração e decidi migrar de carreira para a área de tecnologia. Atualmente estou em formação de Desenvolvedor de Software na Cubos Academy. A cada linguagem conhecida, me apaixono ainda mais pela tecnologia e como ela pode transformar a vida das pessoas.
 
 ## Detalhes
 - 🔭 Em busca de uma oportunidade na área da tecnologia.
